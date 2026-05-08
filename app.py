@@ -1,4 +1,5 @@
 import streamlit as st
+import json
 
 from enrollment_starter_refactored import (
     CURRENT_STUDENT,
